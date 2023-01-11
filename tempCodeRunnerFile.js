@@ -1,1 +1,1 @@
-console.log(contarCartas(5));
+8
