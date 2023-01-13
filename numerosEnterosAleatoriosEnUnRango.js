@@ -5,3 +5,4 @@ function rangoAleatorio(limiteInferior, limiteSuperior){
 for(var i=0; i < 15; i++){
     console.log(rangoAleatorio(3,8));
 }
+
