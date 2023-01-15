@@ -22,6 +22,7 @@ const estadisticas = {
     promedio: 35.85
 };
 
+// En este ejemplo sólo pasamos 2 propiedades del objeto aunque podríamos pasar más
 const mitad = ({max, min}) => (max + min) / 2.0;
 
 console.log(mitad(estadisticas));
